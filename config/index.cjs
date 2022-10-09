@@ -23,7 +23,7 @@ const USER_CONFIG = {
     /** 每日N句 */
     // 金山每日一句
     CIBA: true,
-    horoscope: ture,
+    horoscope: true,
   },
   
   USERS: [
