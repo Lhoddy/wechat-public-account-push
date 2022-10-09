@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '61a519012920dc9bae9f38defc6562cd',
 
   PROVINCE: '湖南',
-  CITY: '望城',
+  CITY: '长沙',
   
   SWITCH: {
     weather: true,
@@ -33,7 +33,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ogag-5hMAKoFuz5ItjGJHCMmxzoQ',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'aiiGG0PW1j22dFm_QI5Xs_yikCMwFHnvyRuAKoYyR4o',
+      useTemplateId: 'fPTfGUzQxcooq_kbeWay0qwF6aQlYUuHACQ5zHcPbFE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-06',
       horoscopeDateType: '今日',
