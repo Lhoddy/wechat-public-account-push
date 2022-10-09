@@ -430,7 +430,7 @@ export const sendMessage = async (templateId, user, accessToken, params) => {
   const data = {
     touser: user.id,
     template_id: templateId,
-    url: user.openUrl ||,
+    url: user.openUrl,
     topcolor: '#FF0000',
     data: wxTemplateData,
   }
