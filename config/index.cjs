@@ -22,7 +22,7 @@ const USER_CONFIG = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    poetry: true,
     horoscope: true,
   },
   
@@ -33,7 +33,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ogag-5k8tjTeCsA_5709waEOLxoQ', //ogag-5k8tjTeCsA_5709waEOLxoQ
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'z6HSDvdqvJRuq-5qvUOq9DfTXwEMel9LWHOnbvS3k9E',
+      useTemplateId: 'sPBi9Erd9ZCxEzJp0-MsPG77QwBTTi9189sV4m44Ozs',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-06',
       horoscopeDateType: '今日',
